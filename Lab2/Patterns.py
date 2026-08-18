@@ -34,6 +34,23 @@ def print_patterns(n):
         number_pattern(n)
         pyramid_patterns(n)
 
+
+
 if __name__=="__main__":
     n=int(input("enter the number of rows:"))
     print_patterns(n)
+
+    n = int(input("Enter number of rows: "))
+
+for i in range(n):
+    if i == 0:
+        print("* " * (2 * n - 1))
+    else:
+        left = n - i
+
+        print("* " * left, end="")
+
+        spaces = 2 * i - 1
+        print("  " * spaces, end="")
+
+        print("* " * left)
