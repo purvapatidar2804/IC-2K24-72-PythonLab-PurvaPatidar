@@ -52,7 +52,6 @@ This folder contains Python programs for different star and number patterns.
 
 
 
-
 ## Lab 4 - Pattern Printing
 
 This folder contains Python programs for different star and number patterns.
@@ -61,14 +60,41 @@ This folder contains Python programs for different star and number patterns.
 1. butterfly pattern
 2. Hollow triangle
 
+## Lab 5 - Matrix_operation
+
+this folder contains Python programs for matrix operations
+
+### program included
+1. Display matrix
+2. Sum of all elements
+3. Sum of main diagonal
+4. Largest and smallest element
+5. Transpose
+6. Star PAtern
+
+## Lab 7 - combination_program
+
+### program included
+1. atm_simulation.py
+2. grade_calculator.py
+3. reverse_guessing.py
+4. guessing_game_hints.py
+5. combined_application.py
+
 ## Folder Structure
+
+## Lab 8 - time & space complexity
+this folder contains md file explaining time and space complexity
+
 
 All Lab 1 programs are stored inside the `Lab1` folder.
 All Lab2 programs are stored inside the 
 `Lab2` folder.
 All Lab 3 programs are stored inside the `Lab3` folder.
 All Lab 4 programs are stored inside the `Lab4` folder.
-
+All Lab 5 programs are stored inside the `Lab5` folder.
+All Lab 6 programs are stored inside the `Lab7` folder.
+All Lab 7 programs are stored inside the `Lab8` folder.
 
 IC-2K24-72-PythonLab-PurvaPatidar/
 │
@@ -91,5 +117,13 @@ IC-2K24-72-PythonLab-PurvaPatidar/
 |── Lab5/
 │   ├── README.md
 │   ├── Python programs
+|    
+|── Lab7/
+│   ├── README.md
+│   ├── Python programs
 |
+|──  Lab8/
+│   |── time_space_complexity.md
+|
+|── .gitignore
 └── README.md
