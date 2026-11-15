@@ -38,11 +38,38 @@ Lab 2 contains Python programs based on functions, loops, recursion, nested loop
 
 
 
+## Lab 3 - Pattern Printing
+
+This folder contains Python programs for different star and number patterns.
+
+### Programs Included:
+
+1. Inverted Triangle Pattern
+2. Square Triangle Pattern
+3. Pyramid Pattern
+4. Diamond Pattern
+5. Number Pattern
+
+
+
+
+## Lab 4 - Pattern Printing
+
+This folder contains Python programs for different star and number patterns.
+
+### Programs Included:
+1. butterfly pattern
+2. Hollow triangle
+
 ## Folder Structure
 
 All Lab 1 programs are stored inside the `Lab1` folder.
 All Lab2 programs are stored inside the 
 `Lab2` folder.
+All Lab 3 programs are stored inside the `Lab3` folder.
+All Lab 4 programs are stored inside the `Lab4` folder.
+
+
 IC-2K24-72-PythonLab-PurvaPatidar/
 │
 ├── Lab1/
@@ -52,5 +79,17 @@ IC-2K24-72-PythonLab-PurvaPatidar/
 ├── Lab2/
 │   ├── README.md
 │   └── Python programs
-│
+|
+|── Lab3/
+│   ├── README.md
+│   ├── Python programs
+|
+|── Lab4/
+│   ├── README.md
+│   ├── Python programs
+|
+|── Lab5/
+│   ├── README.md
+│   ├── Python programs
+|
 └── README.md
